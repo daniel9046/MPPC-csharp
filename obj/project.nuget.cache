@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "pLLFJD7tyJv0LdepdK+S1vPm3exH4Vhr/apJgmQEutABOxxUFlpFyFSZg3F9sUF3rGzp5wxA1eCsKneG4gLj+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Daniel9046\\Documents\\csharpmppc\\csharpmppc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniel9046\\.nuget\\packages\\websocketsharp\\1.0.3-rc11\\websocketsharp.1.0.3-rc11.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'WebSocketSharp 1.0.3-rc11' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' em vez da estrutura de destino do projeto 'net7.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "WebSocketSharp",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}

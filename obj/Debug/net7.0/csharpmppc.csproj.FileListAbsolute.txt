@@ -1,0 +1,17 @@
+C:\Users\Daniel9046\Documents\csharpmppc\obj\Debug\net7.0\csharpmppc.csproj.AssemblyReference.cache
+C:\Users\Daniel9046\Documents\csharpmppc\obj\Debug\net7.0\csharpmppc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel9046\Documents\csharpmppc\obj\Debug\net7.0\csharpmppc.AssemblyInfoInputs.cache
+C:\Users\Daniel9046\Documents\csharpmppc\obj\Debug\net7.0\csharpmppc.AssemblyInfo.cs
+C:\Users\Daniel9046\Documents\csharpmppc\obj\Debug\net7.0\csharpmppc.csproj.CoreCompileInputs.cache
+C:\Users\Daniel9046\Documents\csharpmppc\bin\Debug\net7.0\csharpmppc.exe
+C:\Users\Daniel9046\Documents\csharpmppc\bin\Debug\net7.0\csharpmppc.deps.json
+C:\Users\Daniel9046\Documents\csharpmppc\bin\Debug\net7.0\csharpmppc.runtimeconfig.json
+C:\Users\Daniel9046\Documents\csharpmppc\bin\Debug\net7.0\csharpmppc.dll
+C:\Users\Daniel9046\Documents\csharpmppc\bin\Debug\net7.0\csharpmppc.pdb
+C:\Users\Daniel9046\Documents\csharpmppc\bin\Debug\net7.0\websocket-sharp.dll
+C:\Users\Daniel9046\Documents\csharpmppc\obj\Debug\net7.0\csharpmppc.csproj.CopyComplete
+C:\Users\Daniel9046\Documents\csharpmppc\obj\Debug\net7.0\csharpmppc.dll
+C:\Users\Daniel9046\Documents\csharpmppc\obj\Debug\net7.0\refint\csharpmppc.dll
+C:\Users\Daniel9046\Documents\csharpmppc\obj\Debug\net7.0\csharpmppc.pdb
+C:\Users\Daniel9046\Documents\csharpmppc\obj\Debug\net7.0\csharpmppc.genruntimeconfig.cache
+C:\Users\Daniel9046\Documents\csharpmppc\obj\Debug\net7.0\ref\csharpmppc.dll
